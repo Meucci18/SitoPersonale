@@ -1,0 +1,16 @@
+body{
+    color: black;
+    background-color: aqua;
+    font-family: cursive;
+}
+
+h1{
+    color: rgb(0, 247, 49);
+}
+body{
+    text-align: center;
+}
+
+a{
+    color: chartreuse;
+}
